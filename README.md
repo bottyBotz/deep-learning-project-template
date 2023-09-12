@@ -142,5 +142,5 @@ For detailed explanations or if you encounter any issues, please refer to the in
 
 This project is based on original work by Qianye Yang. The current repository serves as a template, with specific project details stripped for generalization purposes. I deeply appreciate Qianye Yang for their invaluable contributions and expertise.
 
-You can find the original project and more of Qianye Yang's work at https://github.com/QianyeYang/mpmriregb.
+You can find the original project and more of Qianye Yang's work at https://github.com/QianyeYang/mpmrireg.
 
